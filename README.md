@@ -1,3 +1,4 @@
+3. # My Awesome Auto-GPT Playground! 🤖
 <p align="center">
   <a href="https://platform.agpt.co/signup?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=autogpt_readme&amp;utm_content=hero_banner">
     <img src="docs/home/.gitbook/assets/Banner_image.png" alt="AutoGPT" width="100%" />
